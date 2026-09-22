@@ -10,6 +10,10 @@ Meu nome é Nicolas Dias Da Silva, sou estudante de engenharia de software em bu
             title="Me siga no GitHub" 
             src="https://custom-icon-badges.demolab.com/github/followers/nicolasdias1985?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
         />
+        </a>
+  <a href="https://instagram.com/nicksonn.d">
+    <img src="https://img.shields.io/badge/Instagram-@Onicksonn.d-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
     </a>
 </p>
 
