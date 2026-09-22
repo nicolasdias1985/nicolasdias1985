@@ -12,7 +12,7 @@ Meu nome é Nicolas Dias Da Silva, sou estudante de engenharia de software em bu
         />
         </a>
   <a href="https://instagram.com/nicksonn.d">
-    <img src="https://img.shields.io/badge/Instagram-@Onicksonn.d-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+    <img src="https://img.shields.io/badge/Instagram-@nicksonn.d-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
     </a>
 </p>
