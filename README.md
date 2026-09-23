@@ -2,7 +2,7 @@
 
 **`Estudante de Engenharia de Software`**
 
-Meu nome é Nicolas Dias Da Silva, sou estudante de engenharia de software em busca da minha primeira oportunidade de estágio em TI. Comecei com Python e atualmmente estudando HTML, CSS e JavaScript
+ Estudante de engenharia de software pela UNICID. Estou em busca da minha primeira oportunidade de estágio em TI. Comecei com Python e atualmmente estudando HTML, CSS e JavaScript com foco em front-end e inteligência artificial. 
 <p align="left">
     <a href="https://github.com/nicolasdias1985?tab=followers">
         <img 
